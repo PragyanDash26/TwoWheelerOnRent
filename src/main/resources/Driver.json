@@ -1,0 +1,9 @@
+{
+    "id":1,
+	"firstName":"Pragyan",
+	"lastName":"Dash",
+	"email":"prag@gmail.com",
+	"password":"ppd",
+	"rating":5,
+	"isAvailable":true
+}
